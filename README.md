@@ -1,4 +1,4 @@
-This project is a dollar comparator in React/Redux.
+Compare a currency at dollar (React/Redux).
 
 Clone or download the repository.
 
